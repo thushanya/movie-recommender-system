@@ -79,20 +79,28 @@ movie-recommender-system/
 ```bash
 git clone https://github.com/your-username/movie-recommender-system.git
 cd movie-recommender-system
+```
 
 2. Create Virtual Environment
+```bash
 python -m venv venv
+```
 
 Activate:
 Windows
+```bash
 venv\Scripts\activate
+```
 
 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 4. Run Streamlit App
+```bash
 streamlit run app.py
-
+```
 
 📊 System Workflow
 
