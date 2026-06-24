@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System (Hybrid ML Project)
+# 🎬 Movie Recommendation System (Hybrid Machine Learning Project)
 
 A machine learning-based movie recommendation system built using **MovieLens 100K dataset**.  
 The system combines **Collaborative Filtering (SVD)** and **Content-Based Filtering (TF-IDF + Cosine Similarity)** and provides an interactive **Streamlit web application**.
